@@ -13,7 +13,12 @@ export default function ExtraServices() {
   ];
 
   return (
-    <section className="py-20 bg-white">
+    <section className="py-20 bg-white"
+    style={{
+        backgroundImage:
+          "url('/bg-white.jpg')"
+      }}
+    >
       <h3 className="text-4xl font-extrabold text-center mb-14 text-purple-600">
         Layanan Tambahan
       </h3>

@@ -39,7 +39,7 @@ export default function Services() {
               />
             </div>
 
-            <h4 className="text-2xl font-bold text-center mb-3">{s.title}</h4>
+            <h4 className="text-2xl text-black font-bold text-center mb-3">{s.title}</h4>
             <p className="text-gray-600 text-center">{s.desc}</p>
           </div>
         ))}

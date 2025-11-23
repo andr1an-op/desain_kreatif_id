@@ -24,7 +24,12 @@ export default function Pricing() {
   ];
 
   return (
-    <section className="py-20 bg-gray-100">
+    <section className="py-20 bg-gray-100"
+    style={{
+        backgroundImage:
+          "url('/bg-white.jpg')"
+      }}
+    >
       <h3 className="text-4xl text-black font-extrabold text-center mb-14">
         Paket Desain
       </h3>

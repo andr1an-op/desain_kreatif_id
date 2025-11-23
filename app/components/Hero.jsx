@@ -4,7 +4,7 @@ export default function Hero() {
       className="relative w-full h-[80vh] flex items-center justify-center bg-cover bg-center"
       style={{
         backgroundImage:
-          "url('https://images.unsplash.com/photo-1526481280695-3c720685208b?auto=format&fit=crop&w=1400&q=80')"
+          "url('/bg.jpg')"
       }}
     >
       {/* Overlay gelap */}
