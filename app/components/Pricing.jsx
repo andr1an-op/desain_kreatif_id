@@ -65,20 +65,6 @@ export default function Pricing() {
               ))}
             </ul>
 
-            {/* Tombol CTA */}
-            <div className="text-center">
-              <a
-                href="https://wa.me/6282324530185?text=Halo%20saya%20ingin%20memesan%20paket%20desain"
-                target="_blank"
-                className={`px-6 py-3 rounded-lg font-semibold transition text-white ${
-                  p.highlight
-                    ? "bg-green-600 hover:bg-green-700"
-                    : "bg-gray-800 hover:bg-black"
-                }`}
-              >
-                Pilih Paket
-              </a>
-            </div>
           </div>
         ))}
       </div>

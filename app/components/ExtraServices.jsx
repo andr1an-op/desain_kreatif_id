@@ -42,16 +42,6 @@ export default function ExtraServices() {
             <h4 className="text-2xl font-bold text-center mb-3">{e.title}</h4>
 
             <p className="text-gray-600 text-center">{e.desc}</p>
-
-            <div className="text-center mt-6">
-              <a
-                href="https://wa.me/6282324530185?text=Halo%20saya%20ingin%20menggunakan%20layanan%20tambahan"
-                target="_blank"
-                className="px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white rounded-lg text-sm font-semibold transition"
-              >
-                Pesan Layanan Ini
-              </a>
-            </div>
           </div>
         ))}
       </div>

@@ -23,7 +23,7 @@ export default function Hero() {
 
         {/* Tombol */}
         <a
-          href="https://wa.me/6282324530185?text=Halo%20saya%20ingin%20pesan%20desain"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScLfX4PTRrtyEAzAEDEpgd4_3NQcBZLmcLi1_wb_59CgV_XDg/viewform?usp=dialog"
           target="_blank"
           className="inline-block mt-8 bg-green-500 hover:bg-green-600 px-8 py-3 rounded-full text-lg font-semibold shadow-lg transition"
         >
