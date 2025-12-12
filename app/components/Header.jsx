@@ -24,7 +24,7 @@ export default function Header() {
         <h1 className="text-2xl font-bold">DesainKreatif.id</h1>
 
         <a
-          href="https://wa.me/6282324530185?text=Halo%20saya%20ingin%20pesan%20desain"
+          href="https://wa.me/6281393530919?text=Halo%20saya%20ingin%20pesan%20desain"
           target="_blank"
           className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg transition"
         >

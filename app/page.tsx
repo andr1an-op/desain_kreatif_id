@@ -16,7 +16,7 @@ export default function Home() {
 
       {/* Floating WhatsApp Button */}
       <a
-        href="https://wa.me/628xxxxxxx?text=Halo%20DesainKreatif.id%20saya%20ingin%20pesan%20desain"
+        href="https://wa.me/6281393530919?text=Halo%20DesainKreatif.id%20saya%20ingin%20pesan%20desain"
         target="_blank"
         className="fixed bottom-6 right-6 bg-green-500 p-4 rounded-full shadow-xl text-white text-2xl"
       >
