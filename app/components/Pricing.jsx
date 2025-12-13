@@ -2,21 +2,21 @@ export default function Pricing() {
   const packages = [
     {
       name: "Basic",
-      price: "Rp50.000",
+      price: "Rp99.000",
       desc: "Cocok untuk kebutuhan desain sederhana.",
       fitur: ["1 Konsep Desain", "1x Revisi", "File JPG"],
       highlight: false
     },
     {
       name: "Standard",
-      price: "Rp100.000",
+      price: "Rp249.000",
       desc: "Pilihan terbaik untuk kebutuhan branding bisnis.",
       fitur: ["2 Konsep Desain", "3x Revisi", "PNG + JPG", "Aset Warna"],
       highlight: true
     },
     {
       name: "Premium",
-      price: "Rp300.000",
+      price: "Rp699.000",
       desc: "Untuk Anda yang ingin desain terbaik dan profesional.",
       fitur: ["3 Konsep Desain", "Unlimited Revisi", "Semua Format File", "Source File"],
       highlight: false
